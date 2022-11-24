@@ -1,0 +1,279 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+body {
+    background-image: url('../Imagenes/fondohome.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header img {
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+section {
+    margin-top: 30px;
+    height: 30%;
+}
+
+section h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+section p {
+    font-size: 20px;
+    text-align: center;
+}
+
+.seccionblanco {
+    width: 100%;
+    background-color: white;
+    padding: 400px 0px;
+    margin-top: 100px;
+}
+
+.img {
+    position: relative;
+    width: 10.87%;
+    height: 165px;
+    top: 419px;
+}
+
+.primagen {
+    position: relative;
+    width: 45%;
+    height: 250px;
+    top: 50px;
+    left: 40px;
+}
+
+.box {
+    width: 600px;
+    height: 400px;
+    border: none;
+    box-shadow: 0 10px 14px rgba(0,0,0,0.2);
+    position: relative;
+    bottom: 300px;
+    left: 50px;
+}
+
+.box h2 {
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    left: 100px;
+    top: 25px;
+}
+
+.box aside {
+    position: relative;
+    text-align: right;
+    float: right;
+    top: 45px;
+    right: 10px;
+}
+
+.box2 {
+    width: 150px;
+    height: 50px;
+    border: none;
+    background-color: black;
+    box-shadow: 0 10px 14px rgba(0,0,0,0.2);
+    position: relative;
+    bottom: 415px;
+    left: 490px;
+}
+
+.box2 h2 {
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    left: 22px;
+    top: 8px;
+}
+
+.box2 h2 a {
+    text-decoration: none;
+    color: white;
+}
+
+.box2 h2 a:hover {
+    color: white;
+}
+
+.box3 {
+    width: 600px;
+    height: 400px;
+    border: none;
+    box-shadow: 0 10px 14px rgba(0,0,0,0.2);
+    position: relative;
+    top: 197px;
+    left: 800px;
+}
+
+.box3 h2 {
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    left: 100px;
+    top: 25px;
+}
+
+.box3 aside {
+    position: relative;
+    text-align: right;
+    float: right;
+    bottom: 712px;
+    left: 133px;
+}
+
+.box3 aside.rankingclass {
+    position: relative;
+    text-align: right;
+    float: right;
+    bottom: 455px;
+    left: 400px;
+}
+
+.box4 {
+    width: 150px;
+    height: 50px;
+    border: none;
+    background-color: black;
+    box-shadow: 0 10px 14px rgba(0,0,0,0.2);
+    position: relative;
+    top: 85px;
+    left: 1240px;
+}
+
+.box4 h2 {
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    left: 22px;
+    top: 8px;
+}
+
+.box4 h2 a {
+    text-decoration: none;
+    color: white;
+}
+
+.box4 h2 a:hover {
+    color: white;
+}
+
+.seccioninvi {
+    width: 0%;
+    background-color: white;
+    padding: 0px 0px;
+    margin-top: -1350px;
+    position: relative;
+}
+
+.box5 {
+    width: 600px;
+    height: 400px;
+    border: none;
+    box-shadow: 0 10px 14px rgba(0,0,0,0.2);
+    position: relative;
+    top: 280px;
+    left: 50px;
+}
+
+.box5 h2 {
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    left: 100px;
+    top: 25px;
+}
+
+.box5 aside {
+    position: relative;
+    text-align: right;
+    float: right;
+    bottom: 330px;
+    right: 10px;
+}
+
+.box6 {
+    width: 150px;
+    height: 50px;
+    border: none;
+    background-color: black;
+    box-shadow: 0 10px 14px rgba(0,0,0,0.2);
+    position: relative;
+    top: 170px;
+    left: 490px;
+}
+
+.box6 h2 {
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    left: 22px;
+    top: 8px;
+}
+
+.box6 h2 a {
+    text-decoration: none;
+    color: white;
+}
+
+.box6 h2 a:hover {
+    color: white;
+}
+
+.box7 {
+    width: 600px;
+    height: 400px;
+    border: none;
+    box-shadow: 0 10px 14px rgba(0,0,0,0.2);
+    position: relative;
+    bottom: 173px;
+    left: 800px;
+}
+
+.box7 h2 {
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    left: 100px;
+    top: 25px;
+}
+
+.box7 aside {
+    position: relative;
+    text-align: right;
+    float: right;
+    top: 45px;
+    right: 10px;
+}
+
+.box8 {
+    width: 150px;
+    height: 50px;
+    border: none;
+    background-color: black;
+    box-shadow: 0 10px 14px rgba(0,0,0,0.2);
+    position: relative;
+    bottom: 290px;
+    left: 1240px;
+}
+
+.box8 h2 {
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    left: 22px;
+    top: 8px;
+}
+
+.box8 h2 a {
+    text-decoration: none;
+    color: white;
+}
+
+.box8 h2 a:hover {
+    color: white;
+}
